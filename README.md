@@ -2,6 +2,7 @@
 *A comprehensive documentation of learning computer science fundamentals through Harvard's CS50x*
 
 ---
+[![Banner](https://codecrafters.io/images/byox-banner.gif)](https://codecrafters.io/github-banner)
 
 ## <h1 align="center">Project Portfolio - CS50 Required Projects<h1>
 
