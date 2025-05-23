@@ -3,7 +3,8 @@
 
 ---
 
-## Introduction
+## <h1 align="center">Project Portfolio - CS50 Required Projects<h1>
+
 
 During my gap year in Bangladesh, I embarked on an educational journey that would fundamentally reshape my understanding of computer science. Armed with nothing more than a modest laptop and an unreliable internet connection, I discovered Harvard's CS50x course. This decision marked the beginning of an intensive exploration into the world of programming, algorithms, and computational thinking.
 
@@ -55,11 +56,13 @@ The week covered essential programming fundamentals that serve as building block
 
 ---
 
-## Project Portfolio
+<h1 align="center">Project Portfolio - CS50 Required Projects<h1>
 
-### CS50 Required Projects
+<h2 align="center">Mario Pyramid Generator<h2>
 
-#### Mario Pyramid Generator
+<p align="center">
+  <img src="https://github.com/Ayesha-Siddika-Nihan/-Mario-Pyramid-in-C-/blob/main/Mario%20In%20C%20-%20Cover.png" width="100%" alt="Geometric Dash Banner"/>
+</p>
 
 The Mario project required creating a program that generates right-aligned pyramids of specified heights using hash symbols. This seemingly simple task reinforced several important programming concepts:
 
@@ -67,7 +70,10 @@ The implementation required nested loop structures to manage both horizontal spa
 
 *[Detailed code implementation and explanation to be added]*
 
-#### Credit Card Validator
+<h2 align="center">Credit Card Validator<h2>
+<p align="center">
+  <img src="https://github.com/Ayesha-Siddika-Nihan/-Mario-Pyramid-in-C-/blob/main/Mario%20In%20C%20-%20Cover.png" width="100%" alt="Geometric Dash Banner"/>
+</p>
 
 The credit card validation project implemented Luhn's algorithm to verify credit card number authenticity. This project introduced:
 
@@ -81,7 +87,11 @@ The credit card validation project implemented Luhn's algorithm to verify credit
 
 ### Personal Projects
 
-#### Login Screen System
+
+<h2 align="center">Login Screen System<h2>
+<p align="center">
+  <img src="https://github.com/Ayesha-Siddika-Nihan/-Mario-Pyramid-in-C-/blob/main/Mario%20In%20C%20-%20Cover.png" width="100%" alt="Geometric Dash Banner"/>
+</p>
 
 Developed a comprehensive authentication system that demonstrates understanding of:
 
@@ -93,7 +103,11 @@ Developed a comprehensive authentication system that demonstrates understanding 
 
 *[Detailed code implementation and explanation to be added]*
 
-#### Tic Tac Toe Game
+<h2 align="center">Tic Tac Toe Game<h2>
+<p align="center">
+  <img src="https://github.com/Ayesha-Siddika-Nihan/-Mario-Pyramid-in-C-/blob/main/Mario%20In%20C%20-%20Cover.png" width="100%" alt="Geometric Dash Banner"/>
+</p>
+
 
 Created an interactive two-player Tic Tac Toe game that showcases:
 
@@ -105,7 +119,11 @@ Created an interactive two-player Tic Tac Toe game that showcases:
 
 *[Detailed code implementation and explanation to be added]*
 
-#### Restaurant Billing Software
+
+<h2 align="center">Restaurant Billing Software<h2>
+<p align="center">
+  <img src="https://github.com/Ayesha-Siddika-Nihan/-Mario-Pyramid-in-C-/blob/main/Mario%20In%20C%20-%20Cover.png" width="100%" alt="Geometric Dash Banner"/>
+</p>
 
 Developed a comprehensive billing system for restaurant operations that demonstrates:
 
