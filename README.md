@@ -1,4 +1,4 @@
-# CS50 C Programming Journey
+## <h1 align="center"> CS50 C Programming Journey<h1>
 *A comprehensive documentation of learning computer science fundamentals through Harvard's CS50x*
 
 ---
